@@ -1,42 +1,63 @@
-# Sales Dashboard Overview
+# Dashboard Creation Process
 
-The Sales Dashboard provides a comprehensive overview of key performance indicators (KPIs) for the current year compared to the previous year. It highlights essential metrics, including total sales, profit, and quantity sold, while also showcasing the best-performing subcategories. The dashboard allows users to monitor weekly trends, offering a clear perspective on above- and below-average performance. Its interactive features enhance user-friendliness, making it an ideal tool for tracking these critical metrics simultaneously.
+## Step 1: Requirements and Mockup Preparation
+1. **Understand Stakeholders' Requirements:**  
+   Gather information on the stakeholders' needs and the business problem to be addressed.
+   
+2. **Gather Relevant Data:**  
+   Identify and collect the necessary data sources required for the dashboard.
 
-## Data Overview
+3. **Determine Chart Types:**  
+   Decide on the appropriate chart types based on the data questions to be answered.
 
-The data in this dashboard covers:
+4. **Prepare a Mockup:**  
+   Create an initial layout and design mockup of the dashboard for review and feedback.
 
-- **Total Sales:** Displays the annual sales amount, with a percentage change compared to the prior year.
-- **Total Profit:** Shows the total profit for the year, along with a comparison to the previous year’s profit.
-- **Total Quantity Sold:** Highlights the quantity sold and the growth rate from the previous year.
-- **Sales and Profit by Subcategory:** Breaks down sales and profit into various product subcategories, showing comparative performance between the two years.
-- **Weekly Sales and Profit Trends:** Illustrates weekly fluctuations, allowing for quick identification of performance relative to set averages.
+---
 
-## Key Insights
+## Step 2: Data Preparation in Tableau
+1. **Import Data into Tableau:**  
+   Load the gathered data into Tableau for analysis.
 
-- **Total Sales** reached **$733K** with a **20.4%** increase from the previous year.
-- **Total Profit** climbed to **$93.4K**, marking a **14.2%** growth.
-- **Total Quantity Sold** rose by **26.8%**, highlighting strong demand across categories.
+2. **Create a Data Model:**  
+   Develop a data model that best fits the analysis requirements.
 
-## Monthly Highlights
+3. **Rename Fields and Tables:**  
+   Modify field and table names for clarity and consistency.
 
-- **November** recorded the **highest sales and quantity sold**, while **February** had the **lowest** in both.
-- **March** achieved the **highest profit**, while **April** experienced the **lowest**.
+4. **Correct Data Types:**  
+   Ensure all data types are accurate to prevent analysis issues.
 
-## Subcategory Insights
+---
 
-- **Top Sellers:** Mobile Phones had the highest sales in 2023, followed by Chairs.
-- **Lowest Sellers:** Envelopes and Fasteners recorded the lowest sales.
-- **Top Profit Contributors:** Copiers and Stationery led in profitability.
-- **Main Loss Contributor:** Tables accounted for the largest loss.
+## Step 3: Chart Building and Formatting
+1. **Create Calculated Fields:**  
+   Develop calculated fields as per the requirements of the dashboard.
 
-## Weekly Highlights
+2. **Build the Necessary Charts:**  
+   Construct the charts that will display the data effectively.
 
-- **Week 48** recorded the highest sales, while **Week 21** had the lowest.
-- **Week 12** achieved the highest profit, whereas **Week 16** saw the lowest.
+3. **Format Charts:**  
+   Enhance the charts by:
+   - Removing gridlines.
+   - Cleaning up axes and headers.
+   - Assigning appropriate colors.
+   - Enhancing tooltips for clarity.
 
-## Recommendations
+---
 
-- **Stock High-Sellers:** Ensure adequate stock of Mobile Phones, Chairs, and Binders for peak sales in November and December.
-- **Evaluate Poor Performers:** Gather customer feedback on least sold products and analyze similar market offerings for insights.
-- **Promotional Strategies:** Implement gift cards and special offers during peak months to boost sales.
+## Step 4: Dashboard Assembly and Final Formatting
+1. **Use Dashboard Objects:**  
+   Utilize objects like horizontal/vertical containers, images, text, navigation buttons, etc., to create a structured layout.
+
+2. **Add Dynamic Filtering:**  
+   Insert a Show/Hide filter button for dynamic data filtering.
+
+3. **Insert and Format Charts:**  
+   Place and format the charts, ensuring even distribution of content.
+
+4. **Set Consistent Design:**  
+   Maintain a consistent color scheme, size, and layout throughout the dashboard.
+
+5. **Ensure Fit:**  
+   Adjust the dashboard to fit the entire view for optimal user experience.
