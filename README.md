@@ -29,19 +29,19 @@ To learn more about the dashboard preparation process, please refer to
 - **Total Profit** climbed to **$93.4K**, marking a **14.2%** growth.
 - **Total Quantity Sold** rose by **26.8%**, highlighting strong demand across categories.
 
-## Monthly Highlights
+### Monthly Highlights
 
 - **November** recorded the **highest sales and quantity sold**, while **February** had the **lowest** in both.
 - **March** achieved the **highest profit**, while **April** experienced the **lowest**.
 
-## Subcategory Insights
+### Subcategory Insights
 
 - **Top Sellers:** Mobile Phones had the highest sales in 2023, followed by Chairs.
 - **Lowest Sellers:** Envelopes and Fasteners recorded the lowest sales.
 - **Top Profit Contributors:** Copiers and Stationery led in profitability.
 - **Main Loss Contributor:** Tables accounted for the largest loss.
 
-## Weekly Highlights
+### Weekly Highlights
 
 - **Week 48** recorded the highest sales, while **Week 21** had the lowest.
 - **Week 12** achieved the highest profit, whereas **Week 16** saw the lowest.
