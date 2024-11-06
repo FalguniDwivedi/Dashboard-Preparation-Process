@@ -11,6 +11,15 @@ The data in this dashboard covers:
 - **Total Quantity Sold:** Highlights the quantity sold and the growth rate from the previous year.
 - **Sales and Profit by Subcategory:** Breaks down sales and profit into various product subcategories, showing comparative performance between the two years.
 - **Weekly Sales and Profit Trends:** Illustrates weekly fluctuations, allowing for quick identification of performance relative to set averages.
+
+## Dashboard Preparation Process
+
+To learn more about the dashboard preparation process, please refer to [the full README here](path/to/your-Dashboard Preparation Process/README.md).
+
+## Dashboard Overview
+
+In this section, you can provide an overview of your dashboard. Describe the purpose, the data it uses, and the insights it offers.
+
   
 ![Screenshot (133)](https://github.com/user-attachments/assets/0fadd339-190e-4d31-baab-0872205db4d9)
 
