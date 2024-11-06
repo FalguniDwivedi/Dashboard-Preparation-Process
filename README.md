@@ -14,11 +14,10 @@ The data in this dashboard covers:
 
 ## Dashboard Preparation Process
 
-To learn more about the dashboard preparation process, please refer to [the full README here](path/to/your-Dashboard Preparation Process/README.md).
+To learn more about the dashboard preparation process, please refer to 
+[the full README here](path/to/your-Sales-Dashboard-Tableau/Dashboard Preparation Process/README.md).
 
 ## Dashboard Overview
-
-In this section, you can provide an overview of your dashboard. Describe the purpose, the data it uses, and the insights it offers.
 
   
 ![Screenshot (133)](https://github.com/user-attachments/assets/0fadd339-190e-4d31-baab-0872205db4d9)
