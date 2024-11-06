@@ -22,7 +22,8 @@
 2. **Create a Data Model:**  
    Develop a data model that best fits the analysis requirements.
 
-![Data Model Image](![Data Model Image](path/to/your-image.png) ) 
+![Data Model](https://github.com/user-attachments/assets/5d939fa6-2fd5-44a3-b9a0-7258ee90ae27)
+ 
 
 3. **Rename Fields and Tables:**  
    Modify field and table names for clarity and consistency.
