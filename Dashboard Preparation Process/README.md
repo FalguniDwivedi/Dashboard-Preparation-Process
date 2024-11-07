@@ -36,8 +36,7 @@
 ## Step 3: Chart Building and Formatting
 1. **Create Calculated Fields:**  
    Develop calculated fields as per the requirements of the dashboard.
-   
-  [Tableau Calculated Fields for Analysis](Calculated%20Fields/README.md)
+   [Tableau Calculated Fields for Analysis](Calculated%20Fields/README.md)
 
 
 3. **Build the Necessary Charts:**  
