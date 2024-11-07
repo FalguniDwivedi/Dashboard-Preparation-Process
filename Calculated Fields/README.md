@@ -1,5 +1,5 @@
 ### Current Year Profit  
--IF YEAR([Order Date])= [Select Year] 
+- IF YEAR([Order Date])= [Select Year] 
 THEN [Profit] 
 END  
 
