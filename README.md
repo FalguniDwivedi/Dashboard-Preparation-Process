@@ -15,7 +15,8 @@ The data in this dashboard covers:
 ## Dashboard Preparation Process
 
 To learn more about the dashboard preparation process, please refer to 
-![Link to Additional README](Sales-Dashboard-Tableau/Dashboard Preparation Process/README.md)
+[Dashboard Preparation Process](Dashboard%20Preparation%20Process/README.md)
+
 
 ## Dashboard Overview
 
