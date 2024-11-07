@@ -1,4 +1,4 @@
-### Current Year Profit  
+1. ### Current Year Profit  
 - IF YEAR([Order Date])= [Select Year] 
 THEN [Profit] 
 END  
@@ -42,7 +42,7 @@ END
 - IF SUM([CY Quantity])=WINDOW_MAX(SUM([CY Quantity])) THEN SUM([CY Quantity]) ELSEIF SUM([CY Quantity])=WINDOW_MIN(SUM([CY Quantity])) THEN SUM([CY Quantity]) END  
 
 ### Min/Max Sales  
-IF SUM([CY Sales]) = WINDOW_MAX(SUM([CY Sales])) THEN SUM([CY Sales]) ELSEIF SUM([CY Sales]) = WINDOW_MIN(SUM([CY Sales])) THEN SUM([CY Sales]) END  
+- IF SUM([CY Sales]) = WINDOW_MAX(SUM([CY Sales])) THEN SUM([CY Sales]) ELSEIF SUM([CY Sales]) = WINDOW_MIN(SUM([CY Sales])) THEN SUM([CY Sales]) END  
 
 ### Min/Max Profit  
-IF SUM([CY Profit])=WINDOW_MAX(SUM([CY Profit])) THEN SUM([CY Profit]) ELSEIF SUM([CY Profit])=WINDOW_MIN(SUM([CY Profit])) THEN SUM([CY Profit]) END  
+- IF SUM([CY Profit])=WINDOW_MAX(SUM([CY Profit])) THEN SUM([CY Profit]) ELSEIF SUM([CY Profit])=WINDOW_MIN(SUM([CY Profit])) THEN SUM([CY Profit]) END  
