@@ -1,5 +1,5 @@
-#**Tableau Calculated Fields for Analysis**
-### Current Year Profit  
+#Tableau Calculated Fields for Analysis
+## Current Year Profit  
  - IF YEAR([Order Date])= [Select Year] 
 THEN [Profit] 
 END  
