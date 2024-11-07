@@ -1,6 +1,6 @@
 # Tableau Calculated Fields for Analysis
 
-### Current Year Profit  
+### Current Year Profit   
  - IF YEAR([Order Date])= [Select Year] 
 THEN [Profit] 
 END  
